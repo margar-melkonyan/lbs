@@ -1,0 +1,270 @@
+{
+  "albums": [
+    {
+      "title": "Golden Hits",
+      "releaseYear": 2000,
+      "songs": [
+        {
+          "title": "Summer Breeze",
+          "duration": 210,
+          "releaseDate": "2000-06-15T00:00:00",
+          "genre": {
+            "id": 1,
+            "title": "Pop"
+          },
+          "artists": [
+            {
+              "id": 1,
+              "name": "Michael Star",
+              "debutYear": 1995,
+              "bio": "A celebrated pop artist of the 90s."
+            }
+          ]
+        },
+        {
+          "title": "Winter Blues",
+          "duration": 190,
+          "releaseDate": "2000-11-20T00:00:00",
+          "genre": {
+            "id": 1,
+            "title": "Pop"
+          },
+          "artists": [
+            {
+              "id": 1,
+              "name": "Michael Star",
+              "debutYear": 1995,
+              "bio": "A celebrated pop artist of the 90s."
+            }
+          ]
+        },
+        {
+          "title": "Autumn Whispers",
+          "duration": 220,
+          "releaseDate": "2000-09-10T00:00:00",
+          "genre": {
+            "id": 1,
+            "title": "Pop"
+          },
+          "artists": [
+            {
+              "id": 1,
+              "name": "Michael Star",
+              "debutYear": 1995,
+              "bio": "A celebrated pop artist of the 90s."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rock Legends",
+      "releaseYear": 2005,
+      "songs": [
+        {
+          "title": "Electric Thunder",
+          "duration": 240,
+          "releaseDate": "2005-03-18T00:00:00",
+          "genre": {
+            "id": 2,
+            "title": "Rock"
+          },
+          "artists": [
+            {
+              "id": 1,
+              "name": "Michael Star",
+              "debutYear": 1995,
+              "bio": "A celebrated pop artist of the 90s."
+            }
+          ]
+        },
+        {
+          "title": "Heavy Rain",
+          "duration": 250,
+          "releaseDate": "2005-07-12T00:00:00",
+          "genre": {
+            "id": 2,
+            "title": "Rock"
+          },
+          "artists": [
+            {
+              "id": 1,
+              "name": "Michael Star",
+              "debutYear": 1995,
+              "bio": "A celebrated pop artist of the 90s."
+            }
+          ]
+        },
+        {
+          "title": "Metal Storm",
+          "duration": 230,
+          "releaseDate": "2005-09-25T00:00:00",
+          "genre": {
+            "id": 2,
+            "title": "Rock"
+          },
+          "artists": [
+            {
+              "id": 1,
+              "name": "Michael Star",
+              "debutYear": 1995,
+              "bio": "A celebrated pop artist of the 90s."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Jazz Vibes",
+      "releaseYear": 2010,
+      "songs": [
+        {
+          "title": "Smooth Journey",
+          "duration": 300,
+          "releaseDate": "2010-05-10T00:00:00",
+          "genre": {
+            "id": 3,
+            "title": "Jazz"
+          },
+          "artists": [
+            {
+              "id": 2,
+              "name": "Lana Jazz",
+              "debutYear": 2005,
+              "bio": "A contemporary jazz legend."
+            }
+          ]
+        },
+        {
+          "title": "Night Sax",
+          "duration": 320,
+          "releaseDate": "2010-08-15T00:00:00",
+          "genre": {
+            "id": 3,
+            "title": "Jazz"
+          },
+          "artists": [
+            {
+              "id": 2,
+              "name": "Lana Jazz",
+              "debutYear": 2005,
+              "bio": "A contemporary jazz legend."
+            }
+          ]
+        },
+        {
+          "title": "Blues Moon",
+          "duration": 310,
+          "releaseDate": "2010-12-05T00:00:00",
+          "genre": {
+            "id": 3,
+            "title": "Jazz"
+          },
+          "artists": [
+            {
+              "id": 2,
+              "name": "Lana Jazz",
+              "debutYear": 2005,
+              "bio": "A contemporary jazz legend."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Electronic Dreams",
+      "releaseYear": 2015,
+      "songs": [
+        {
+          "title": "Digital Love",
+          "duration": 200,
+          "releaseDate": "2015-03-15T00:00:00",
+          "genre": {
+            "id": 4,
+            "title": "Electronic"
+          },
+          "artists": [
+            {
+              "id": 3,
+              "name": "DJ Pixel",
+              "debutYear": 2010,
+              "bio": "A leading artist in the electronic music scene."
+            }
+          ]
+        },
+        {
+          "title": "Virtual Reality",
+          "duration": 210,
+          "releaseDate": "2015-06-20T00:00:00",
+          "genre": {
+            "id": 4,
+            "title": "Electronic"
+          },
+          "artists": [
+            {
+              "id": 3,
+              "name": "DJ Pixel",
+              "debutYear": 2010,
+              "bio": "A leading artist in the electronic music scene."
+            }
+          ]
+        },
+        {
+          "title": "Neon Night",
+          "duration": 220,
+          "releaseDate": "2015-09-30T00:00:00",
+          "genre": {
+            "id": 4,
+            "title": "Electronic"
+          },
+          "artists": [
+            {
+              "id": 3,
+              "name": "DJ Pixel",
+              "debutYear": 2010,
+              "bio": "A leading artist in the electronic music scene."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "title": "Pop"
+    },
+    {
+      "id": 2,
+      "title": "Rock"
+    },
+    {
+      "id": 3,
+      "title": "Jazz"
+    },
+    {
+      "id": 4,
+      "title": "Electronic"
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Michael Star",
+      "debutYear": 1995,
+      "bio": "A celebrated pop artist of the 90s."
+    },
+    {
+      "id": 2,
+      "name": "Lana Jazz",
+      "debutYear": 2005,
+      "bio": "A contemporary jazz legend."
+    },
+    {
+      "id": 3,
+      "name": "DJ Pixel",
+      "debutYear": 2010,
+      "bio": "A leading artist in the electronic music scene."
+    }
+  ]
+}

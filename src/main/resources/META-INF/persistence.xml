@@ -1,0 +1,9 @@
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.1">
+    <persistence-unit name="objectdb-database" transaction-type="RESOURCE_LOCAL">
+        <provider>com.objectdb.jpa.Provider</provider>
+<!--        <class>org.oodms.Person</class> &lt;!&ndash; Replace with your entity class &ndash;&gt;-->
+        <properties>
+            <property name="javax.persistence.jdbc.url" value="objectdb:db/music_library.odb" />
+        </properties>
+    </persistence-unit>
+</persistence>
