@@ -5,6 +5,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.oodms.entity.meta.AdditionalInformation;
+import org.oodms.entity.meta.City;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
@@ -21,7 +22,7 @@ public class University {
     private int id;
     private String name;
     private int capacity;
-    @OneToMany (mappedBy = "university", cascade = CascadeType.PERSIST)
+    @OneToMany (mappedBy = "university")
     private List<User> users;
     @Embedded
     private City city;

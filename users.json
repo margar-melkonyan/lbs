@@ -1,0 +1,208 @@
+{
+  "users": [
+    {
+      "username": "johndoe",
+      "curriculum": "BACHELOR",
+      "gender": "MALE",
+      "university": {
+        "capacity": "500",
+        "name": "Harvard University",
+        "city": {
+          "name": "Cambridge",
+          "address": "Massachusetts, USA"
+        }
+      },
+      "city": {
+        "name": "Cambridge",
+        "address": "Massachusetts, USA"
+      }
+    },
+    {
+      "username": "janedoe",
+      "curriculum": "MASTER",
+      "gender": "FEMALE",
+      "university": {
+        "capacity": "500",
+        "name": "Harvard University",
+        "city": {
+          "name": "Cambridge",
+          "address": "Massachusetts, USA"
+        }
+      },
+      "city": {
+        "name": "Stanford",
+        "address": "California, USA"
+      }
+    },
+    {
+      "username": "alexsmith",
+      "curriculum": "PHD",
+      "gender": "MALE",
+      "university": {
+        "capacity": "500",
+        "name": "Harvard University",
+        "city": {
+          "name": "Cambridge",
+          "address": "Massachusetts, USA"
+        }
+      },
+      "city": {
+        "name": "Boston",
+        "address": "Massachusetts, USA"
+      }
+    },
+    {
+      "username": "emilyjones",
+      "curriculum": "BACHELOR",
+      "gender": "FEMALE",
+      "university": {
+        "capacity": "700",
+        "name": "University of Oxford",
+        "city": {
+          "name": "Oxford",
+          "address": "Oxfordshire, UK"
+        }
+      },
+      "city": {
+        "name": "Oxford",
+        "address": "Oxfordshire, UK"
+      }
+    },
+    {
+      "username": "michaeltaylor",
+      "curriculum": "MASTER",
+      "gender": "MALE",
+      "university": {
+        "capacity": "400",
+        "name": "University of Cambridge",
+        "city": {
+          "name": "Cambridge",
+          "address": "Cambridgeshire, UK"
+        }
+      },
+      "city": {
+        "name": "Cambridge",
+        "address": "Cambridgeshire, UK"
+      }
+    },
+    {
+      "username": "sarahbrown",
+      "curriculum": "PHD",
+      "gender": "FEMALE",
+      "university": {
+        "capacity": "800",
+        "name": "Yale University",
+        "city": {
+          "name": "New Haven",
+          "address": "Connecticut, USA"
+        }
+      },
+      "city": {
+        "name": "New Haven",
+        "address": "Connecticut, USA"
+      }
+    },
+    {
+      "username": "williamdavis",
+      "curriculum": "BACHELOR",
+      "gender": "MALE",
+      "university": {
+        "capacity": "600",
+        "name": "Princeton University",
+        "city": {
+          "name": "Princeton",
+          "address": "New Jersey, USA"
+        }
+      },
+      "city": {
+        "name": "Princeton",
+        "address": "New Jersey, USA"
+      }
+    },
+    {
+      "username": "oliviagarcia",
+      "curriculum": "MASTER",
+      "gender": "FEMALE",
+      "university": {
+        "capacity": "450",
+        "name": "Columbia University",
+        "city": {
+          "name": "New York",
+          "address": "Manhattan, NY, USA"
+        }
+      },
+      "city": {
+        "name": "New York",
+        "address": "Manhattan, NY, USA"
+      }
+    },
+    {
+      "username": "liamwilson",
+      "curriculum": "PHD",
+      "gender": "MALE",
+      "university": {
+        "capacity": "250",
+        "name": "University of Melbourne",
+        "city": {
+          "name": "Melbourne",
+          "address": "Victoria, Australia"
+        }
+      },
+      "city": {
+        "name": "Chicago",
+        "address": "Illinois, USA"
+      }
+    },
+    {
+      "username": "sophiamartinez",
+      "curriculum": "BACHELOR",
+      "gender": "FEMALE",
+      "university": {
+        "capacity": "350",
+        "name": "University of Toronto",
+        "city": {
+          "name": "Toronto",
+          "address": "Ontario, Canada"
+        }
+      },
+      "city": {
+        "name": "Toronto",
+        "address": "Ontario, Canada"
+      }
+    },
+    {
+      "username": "jameswhite",
+      "curriculum": "MASTER",
+      "gender": "MALE",
+      "university": {
+        "capacity": "250",
+        "name": "University of Melbourne",
+        "city": {
+          "name": "Melbourne",
+          "address": "Victoria, Australia"
+        }
+      },
+      "city": {
+        "name": "Melbourne",
+        "address": "Victoria, Australia"
+      }
+    },
+    {
+      "username": "isabellaanderson",
+      "curriculum": "PHD",
+      "gender": "FEMALE",
+      "university": {
+        "capacity": "250",
+        "name": "University of Melbourne",
+        "city": {
+          "name": "Melbourne",
+          "address": "Victoria, Australia"
+        }
+      },
+      "city": {
+        "name": "Edinburgh",
+        "address": "Scotland, UK"
+      }
+    }
+  ]
+}

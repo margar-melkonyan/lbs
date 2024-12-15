@@ -6,6 +6,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.oodms.entity.meta.AdditionalInformation;
+import org.oodms.entity.meta.City;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
@@ -27,7 +28,7 @@ public class User {
     private Curriculum curriculum;
     @JsonFormat(shape = JsonFormat.Shape.STRING)
     private Gender gender;
-    @ManyToOne (cascade = CascadeType.PERSIST)
+    @ManyToOne
     private University university;
     @Embedded
     private City city;
