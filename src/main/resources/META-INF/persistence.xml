@@ -1,9 +1,9 @@
 <persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.1">
     <persistence-unit name="objectdb-database" transaction-type="RESOURCE_LOCAL">
         <provider>com.objectdb.jpa.Provider</provider>
-<!--        <class>org.oodms.Person</class> &lt;!&ndash; Replace with your entity class &ndash;&gt;-->
         <properties>
-            <property name="javax.persistence.jdbc.url" value="objectdb:db/music_library.odb" />
+            <property name="javax.persistence.jdbc.url" value="objectdb://localhost:6136/test_db.odb;user=admin;password=admin" />
+            <property name="javax.jdo.option.MaxPool" value="50"/>
         </properties>
     </persistence-unit>
 </persistence>
